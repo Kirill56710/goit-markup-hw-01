@@ -22,10 +22,23 @@
     transition: all 3
 }
 .footer-black {
-    width: 1600px;
-    height: 252px;
+    color: rgb(255, 255, 255);
     background: #2F303A;
-    
+    transition: all 3
+}
+.map {
+    color: #FFFFFF;
+}
+.contacts-footer {
+    color: #FFFFFF;
+}
+.logo{
+font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    letter-spacing: 0.03em;
+    color: #2196F3;
 }
 .button2
 {background: #2196F3;
