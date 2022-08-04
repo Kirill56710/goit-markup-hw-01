@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.button 
+{background: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    color: #FFFFFF;
+    width: 200px;
+    height: 50px;
+    border: 0;
+}
+.button:hover{
+        background-color:#188ce8 ;
+        color: #FFFFFF;
+}
+.section.black {
+    background: #2F303A;
+    color: rgb(255, 255, 255);
+    transition: all 3
+}
+.footer.black {
+    width: 1600px;
+    height: 252px;
+    background: #2F303A;
+}
+.button2
+{background: #2196F3;
+    width: 73px;
+    height: 38px;
+    color: #FFFFFF;
+    border: 0;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+    border-radius: 4px
+}
